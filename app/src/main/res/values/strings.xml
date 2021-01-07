@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RecipeBook</string>
+    <string name="existing_recipe">Existing Recipe</string>
+    <string name="search_the_recipe_here">Search the recipe here</string>
+    <string name="search">search</string>
+    <string name="add">Add</string>
+    <string name="delete_all">Delete All</string>
+    <string name="title">Sort by Title</string>
+    <string name="rating">Sort by Rating</string>
+    <string name="namefield">Recipe Name</string>
+    <string name="newrecipetitle">Save a new recipe</string>
+    <string name="savebtn">Save</string>
+    <string name="warningtext">Not all values entered</string>
+    <string name="ingredientsfield">Ingredients</string>
+    <string name="instructionsfield">Instructions</string>
+    <string name="closebtn">Close</string>
+    <string name="ratinglabel">Rating</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="new_recipe">New Recipe</string>
+    <string name="ingredients">Ingredients</string>
+</resources>
